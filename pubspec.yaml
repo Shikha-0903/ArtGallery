@@ -58,6 +58,7 @@ flutter:
     - images/img2.jpg
     - images/girl.jpg
     - images/sneha.jpg
+    - assets/.env
 
 
   fonts:
