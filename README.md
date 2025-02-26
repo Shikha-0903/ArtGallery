@@ -1,7 +1,7 @@
 # 🎨 ArtGallery
 
 ## 🛠 Technologies Used
-- **Flutter, Dart, Firebase, Cloud Storage, Artsy API**
+- **Flutter, Dart, Firebase, Artsy API**
 
 ## 📖 Description
 ArtGallery is a platform that allows artists to showcase their artwork to a global audience.
