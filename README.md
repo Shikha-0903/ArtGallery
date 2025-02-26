@@ -34,7 +34,3 @@ To use this app, you need an **ArtSy API Key**.
 🔗 [Sign up for an API key here](https://developers.artsy.net/)
 
 ---
-
-This version adds **headings, bullet points, emojis, and screenshots** to make your GitHub README look more professional and visually appealing. 🚀🔥
-
-Let me know if you want any more modifications! 😃
