@@ -26,6 +26,9 @@ ArtGallery is a platform that allows artists to showcase their artwork to a glob
 ### 📜 Search Results
 ![Search Results](screenshots/searched.png)
 
+### 🚪➡️ Log Out
+![Log Out](screenshots/img.png)
+
 ## 🔑 API Requirement
 To use this app, you need an **ArtSy API Key**.  
 🔗 [Sign up for an API key here](https://developers.artsy.net/)
